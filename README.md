@@ -1,5 +1,5 @@
 ## Web-CAB Q3 Solver
-```bash
+```
   $ problem = cab_list()
   $ print problem
   ['a', 'b', 'c', 'd']
