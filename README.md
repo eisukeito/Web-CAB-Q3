@@ -1,6 +1,6 @@
 # Web-CAB Q3 Solver
 
-Web-CABの第3問「関数」を解くためのプログラム．
+Web-CABの第3問「命令表」を解くためのプログラム．
 図形a, 図形b, 図形c, 図形dに対する関数を適用すると、解が得られる．
 
 ## Requirements
