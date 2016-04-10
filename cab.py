@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import copy
 
 class cab_list():
     '''
@@ -35,7 +36,6 @@ class cab_list():
     ['d', 'c', 'rev_TB(a)', 'b']
     -> [図形dそのまま, 図形cそのまま, 図形aの上下反転, 図形bそのまま]
     '''
-    import copy
 
     state = []
     history = []
